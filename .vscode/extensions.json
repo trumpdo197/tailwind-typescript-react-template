@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "mariusalchimavicius.json-to-ts",
+    "editorconfig.editorconfig"
+  ]
+}
